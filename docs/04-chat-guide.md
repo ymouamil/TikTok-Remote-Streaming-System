@@ -34,11 +34,11 @@ When the stream is live, TikTok LIVE Studio will show a chat panel.
 
 ## Chat Window
 
-![Chat Window](../images/annotated/chat-window-annotated.png)
+![Chat Pannel](../images/annotated/chat-pannel-annotated.png)
 
 ## Chat Pannel
 
-![Chat Pannel](../images/annotated/chat-pannel-annotated.png)
+![Chat Window](../images/annotated/chat-window-annotated.png)
 
 ---
 
