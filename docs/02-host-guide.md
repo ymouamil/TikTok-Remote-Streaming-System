@@ -153,4 +153,4 @@ Verify:
 
 # Next Step
 
-Continue to the [Operator Guide](03-operator-guide.md)
+Next: [Operator Guide](03-operator-guide.md)
