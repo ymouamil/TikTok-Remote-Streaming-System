@@ -84,4 +84,6 @@ Example OBS layout:
 
 ---
 
-Next: [FAQ](FAQ.md)
+# Next Step
+
+Continue to the [FAQ](FAQ.md)
