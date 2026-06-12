@@ -100,4 +100,8 @@ OBS helps with:
 
 ---
 
-Next: [Multiple Hosts](07-multiple-hosts.md)
+# Next Step
+
+Continue to the [Multiple Hosts](07-multiple-hosts.md)
+
+
