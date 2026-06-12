@@ -89,4 +89,4 @@ Fix:
 
 ---
 
-Next: [FAQ](FAQ.md)
+Next: [System Architecture](06-system-architecture.md)
