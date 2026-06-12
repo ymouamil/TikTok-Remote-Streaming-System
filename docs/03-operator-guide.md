@@ -9,10 +9,10 @@ The operator is responsible for receiving the host's Discord stream and broadcas
 
 In this guide, you will:
 
-Open TikTok LIVE Studio
-Add the Discord stream as a source
-Verify the host appears in the preview window
-Prepare the livestream for broadcasting
+- [] Open TikTok LIVE Studio
+- [] Add the Discord stream as a source
+- [] Verify the host appears in the preview window
+- [] Prepare the livestream for broadcasting
 
 By the end of this guide, the host's screen should be visible inside TikTok LIVE Studio and ready to go live.
 
