@@ -43,16 +43,3 @@ Verify the preview appears.
 # Next Step
 
 Continue to the [Chat Guide](04-chat-guide.md)
-
-# Success Criteria
-
-- [ ] Discord visible
-- [ ] Host visible
-- [ ] Audio working
-- [ ] Ready to go live
-
----
-
-# Next Step
-
-Continue to the [Chat Guide](03-chat-guide.md)
