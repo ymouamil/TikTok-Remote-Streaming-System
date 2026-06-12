@@ -34,7 +34,9 @@ When the stream is live, TikTok LIVE Studio will show a chat panel.
 
 Screenshot placeholder:
 
-![Chat Window](../images/chat-window.png)
+![Chat Window](../images/annotated/chat-window.png)
+
+![Chat Window](../images/annotated/chat-pannel.png)
 
 ---
 
