@@ -47,4 +47,9 @@ In Discord:
 3. Ask hosts if they can see chat.
 4. Keep the chat visible during the stream.
 
-Next: [Troubleshooting](05-troubleshooting.md)
+
+---
+
+# Next Step
+
+Continue to the [Troubleshooting](05-troubleshooting.md)
