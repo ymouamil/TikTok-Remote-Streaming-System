@@ -50,3 +50,9 @@ Continue to the [Chat Guide](04-chat-guide.md)
 - [ ] Host visible
 - [ ] Audio working
 - [ ] Ready to go live
+
+---
+
+# Next Step
+
+Continue to the [Chat Guide](03-chat-guide.md)
