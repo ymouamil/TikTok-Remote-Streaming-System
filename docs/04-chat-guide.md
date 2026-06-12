@@ -80,4 +80,4 @@ Chat sharing works when:
 
 ---
 
-Next: [Multiple Hosts Guide](07-multiple-hosts.md)
+Next: [Troubleshooting](05-troubleshooting.md)
