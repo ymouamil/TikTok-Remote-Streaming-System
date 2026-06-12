@@ -23,10 +23,10 @@ Fix:
 
 Check:
 
-- [ ] Host is in the call
-- [ ] Host is sharing screen
-- [ ] Correct Discord window selected
-- [ ] TikTok LIVE Studio preview is active
+- Host is in the call
+- Host is sharing screen
+- Correct Discord window selected
+- TikTok LIVE Studio preview is active
 
 ---
 
@@ -34,11 +34,11 @@ Check:
 
 Check:
 
-- [ ] Host microphone selected
-- [ ] Host is not muted
-- [ ] Discord audio working
-- [ ] TikTok LIVE Studio audio source selected
-- [ ] Computer volume not muted
+- Host microphone selected
+- Host is not muted
+- Discord audio working
+- TikTok LIVE Studio audio source selected
+- Computer volume not muted
 
 ---
 
