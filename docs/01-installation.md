@@ -1,8 +1,6 @@
 # Installation Guide
 
-[Home](../README.md)
-
-Next: [Host Guide](02-host-guide.md)
+[← Back to Home](../README.md)
 
 ---
 
