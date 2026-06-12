@@ -151,23 +151,6 @@ Verify:
 
 ---
 
-# Common Problems
+# Next Step
 
-## Nobody Can Hear Me
-
-Check:
-
-* Microphone selected
-* Discord permissions granted
-* Microphone not muted
-
-## Nobody Can See My Screen
-
-Check:
-
-* Share Screen active
-* Correct monitor selected
-
-## I Cannot Read Chat
-
-Ask the operator to share the TikTok chat window.
+Continue to the [Operator Guide](03-operator-guide.md)
