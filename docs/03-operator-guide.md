@@ -4,118 +4,45 @@
 
 ---
 
-## Who This Is For
+# Step 1
 
-The operator is the person controlling the stream from the main computer.
-
-The operator:
-
-- Opens Discord
-- Opens TikTok LIVE Studio
-- Captures the host screen
-- Starts the stream
-- Shares chat back to hosts
+Open TikTok LIVE Studio.
 
 ---
 
-## Before The Stream
+# Step 2
 
-Open:
+Press Add Source.
 
-- Discord
-- TikTok LIVE Studio
-- Optional: OBS Studio
+Select Window Capture.
 
----
+Press Add.
 
-## Step 1: Start Discord Call
-
-1. Open Discord.
-2. Start or join the host call.
-3. Confirm the remote host can hear you.
-4. Ask the host to share their screen.
+![Window Capture](../images/annotated/01-window-capture.png)
 
 ---
 
-## Step 2: Confirm Host Screen Share
+# Step 3
 
-The host should share their screen or application.
+Choose the Discord window.
 
-Confirm:
+Press Add Source.
 
-- [ ] Host screen is visible
-- [ ] Host audio is working
-- [ ] No private information is visible
-- [ ] Host knows they are being captured
+![Discord Window](../images/annotated/02-select-discord-window.png)
 
 ---
 
-## Step 3: Capture Discord In TikTok LIVE Studio
+# Step 4
 
-In TikTok LIVE Studio:
+Verify the preview appears.
 
-1. Add a source.
-2. Choose screen/window capture.
-3. Select Discord.
-4. Confirm the preview shows the host.
-
-Screenshot placeholder:
-
-![TikTok Preview](../images/tiktok-preview.png)
+![Preview](../images/annotated/03-preview-result.png)
 
 ---
 
-## Important Problem: Discord Sidebars
+# Success Criteria
 
-If TikTok LIVE Studio captures the full Discord window, it may show sidebars, server lists, and channels.
-
-Quick fixes:
-
-1. Make the Discord shared screen full screen.
-2. Hide extra panels if possible.
-3. Use OBS to crop the Discord capture if needed.
-
----
-
-## Optional Better Setup With OBS
-
-If using OBS:
-
-```text
-Discord
-  ↓
-OBS Window Capture
-  ↓
-Crop unwanted Discord sidebars
-  ↓
-OBS Virtual Camera
-  ↓
-TikTok LIVE Studio
-```
-
-OBS is recommended when the stream needs to look polished.
-
----
-
-## Step 4: Share Chat Back To Hosts
-
-See the [Chat Guide](04-chat-guide.md).
-
----
-
-## Step 5: Go Live
-
-Before going live, confirm:
-
+- [ ] Discord visible
 - [ ] Host visible
-- [ ] Host audio working
-- [ ] TikTok preview correct
-- [ ] Chat panel visible
-- [ ] Chat shared back to hosts
-- [ ] Hosts know to respond verbally
-
-Then click **Go Live**.
-
----
-
-Next: [Chat Guide](04-chat-guide.md)
+- [ ] Audio working
+- [ ] Ready to go live
