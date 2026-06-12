@@ -47,37 +47,4 @@ In Discord:
 3. Ask hosts if they can see chat.
 4. Keep the chat visible during the stream.
 
----
-
-## Multiple Hosts
-
-If multiple hosts are in the Discord call, all of them can watch the shared chat window.
-
-Recommended rule:
-
-Only one host should answer a viewer question at a time.
-
----
-
-## Best Practices
-
-- Keep chat large enough to read.
-- Put chat on a second monitor if possible.
-- Do not show private account information.
-- Share only the chat window if possible.
-- Keep Discord audio open so hosts can coordinate.
-
----
-
-## Success Criteria
-
-Chat sharing works when:
-
-- [ ] TikTok chat is visible to the operator
-- [ ] Operator shares the chat window in Discord
-- [ ] Hosts can read the chat
-- [ ] Hosts can respond verbally
-
----
-
 Next: [Troubleshooting](05-troubleshooting.md)
