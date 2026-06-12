@@ -29,14 +29,6 @@ Operators need:
 * Discord
 * TikTok LIVE Studio
 
-## Optional Software
-
-Advanced operators may also use:
-
-* OBS Studio
-* Git
-* Visual Studio Code
-
 ---
 
 # Step 1: Install Discord
@@ -119,36 +111,8 @@ OBS Studio provides additional streaming features such as:
 
 ---
 
-# Step 5: Install Git (Optional)
-
-## Purpose
-
-Git is used to track changes to documentation and project files.
-
-## Download
-
-[Download Git](https://git-scm.com/downloads)
-
----
-
-# Step 6: Install Visual Studio Code (Optional)
-
-## Purpose
-
-Visual Studio Code can be used to edit project documentation and Markdown files.
-
-## Download
-
-[Download Visual Studio Code](https://code.visualstudio.com/)
-
----
-
 # Next Step
 
 Continue to the [Host Guide](02-host-guide.md)
-
----
-
-Previous: [Home](../README.md)
 
 Next: [Host Guide](02-host-guide.md)
