@@ -100,4 +100,4 @@ OBS helps with:
 
 ---
 
-Next: [Host Guide](02-host-guide.md)
+Next: [Multiple Hosts](07-multiple-hosts.md)
