@@ -1,23 +1,41 @@
 # Installation Guide
 
-[← Back to Home](../README.md)
+[Home](../README.md)
+
+Next: [Host Guide](02-host-guide.md)
 
 ---
 
 # Overview
 
-This guide explains how to install the software required to participate in the TikTok Remote Streaming System.
+This guide explains how to install the software required for the TikTok Remote Streaming System.
 
-## Required Software
+The system allows a remote host to appear on a TikTok livestream through Discord while an operator manages the broadcast using TikTok LIVE Studio or OBS Studio.
 
-### Hosts
+---
+
+# Required Software
+
+## Hosts
+
+Hosts only need:
 
 * Discord
 
-### Operators
+## Operators
+
+Operators need:
 
 * Discord
 * TikTok LIVE Studio
+
+## Optional Software
+
+Advanced operators may also use:
+
+* OBS Studio
+* Git
+* Visual Studio Code
 
 ---
 
@@ -25,13 +43,15 @@ This guide explains how to install the software required to participate in the T
 
 ## Purpose
 
-Discord is used for communication between the operator and remote hosts.
+Discord is used for:
+
+* Voice communication
+* Screen sharing
+* Communication between hosts and operators
 
 ## Download
 
-Official Website:
-
-https://discord.com/download
+[Download Discord](https://discord.com/download)
 
 ## Instructions
 
@@ -44,12 +64,6 @@ https://discord.com/download
 
 ![Discord Download](../images/annotated/05-discord-download.png)
 
-## Success Criteria
-
-* [ ] Discord installed
-* [ ] Discord opens successfully
-* [ ] User signed in
-
 ---
 
 # Step 2: Join the Discord Server
@@ -57,50 +71,84 @@ https://discord.com/download
 The operator will provide an invitation link.
 
 1. Open Discord.
-2. Click the invite link.
+2. Click the invitation link.
 3. Join the server.
-
-## Success Criteria
-
-* [ ] Server joined
-* [ ] Voice channels visible
 
 ---
 
-# Step 3: Install TikTok LIVE Studio (Operators Only)
+# Step 3: Install TikTok LIVE Studio
 
 ## Purpose
 
-TikTok LIVE Studio is used to broadcast the livestream.
+TikTok LIVE Studio is used by the operator to broadcast the livestream.
+
+## Download
+
+[Download TikTok LIVE Studio](https://www.tiktok.com/studio/download)
 
 ## Instructions
 
 1. Download TikTok LIVE Studio.
 2. Install the application.
-3. Sign in with the TikTok account that will be used for streaming.
-4. Verify the application opens correctly.
-
-## Success Criteria
-
-* [ ] Installed
-* [ ] Logged in
-* [ ] Application opens
-* [ ] Preview window visible
+3. Sign in using the TikTok account that will be used for streaming.
+4. Launch the application.
 
 ---
 
-# Installation Checklist
+# Step 4: Install OBS Studio (Optional)
 
-Before continuing, verify:
+## Purpose
 
-* [ ] Discord installed
-* [ ] Discord account created
-* [ ] Joined Discord server
-* [ ] TikTok LIVE Studio installed (operator only)
-* [ ] TikTok LIVE Studio opens correctly
+OBS Studio provides additional streaming features such as:
+
+* Multiple scenes
+* Overlays
+* Recording
+* Advanced layouts
+
+## Download
+
+[Download OBS Studio](https://obsproject.com/download)
+
+## Instructions
+
+1. Download OBS Studio.
+2. Run the installer.
+3. Launch OBS Studio.
+4. Create a new scene.
+
+---
+
+# Step 5: Install Git (Optional)
+
+## Purpose
+
+Git is used to track changes to documentation and project files.
+
+## Download
+
+[Download Git](https://git-scm.com/downloads)
+
+---
+
+# Step 6: Install Visual Studio Code (Optional)
+
+## Purpose
+
+Visual Studio Code can be used to edit project documentation and Markdown files.
+
+## Download
+
+[Download Visual Studio Code](https://code.visualstudio.com/)
 
 ---
 
 # Next Step
 
 Continue to the [Host Guide](02-host-guide.md)
+
+---
+
+Previous: [Home](../README.md)
+
+Next: [Host Guide](02-host-guide.md)
