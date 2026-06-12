@@ -40,6 +40,10 @@ Verify the preview appears.
 
 ---
 
+# Next Step
+
+Continue to the [Chat Guide](04-chat-guide.md)
+
 # Success Criteria
 
 - [ ] Discord visible
