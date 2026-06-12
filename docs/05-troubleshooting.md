@@ -89,4 +89,6 @@ Fix:
 
 ---
 
-Next: [System Architecture](06-system-architecture.md)
+# Next Step
+
+Continue to the [System Architecture](06-system-architecture.md)
