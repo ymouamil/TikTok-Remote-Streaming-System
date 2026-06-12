@@ -32,9 +32,11 @@ Hosts Respond Verbally
 
 When the stream is live, TikTok LIVE Studio will show a chat panel.
 
-Screenshot placeholder:
+## Chat Window
 
 ![Chat Window](../images/annotated/chat-window.png)
+
+## Chat Pannel
 
 ![Chat Window](../images/annotated/chat-pannel.png)
 
